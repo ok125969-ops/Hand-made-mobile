@@ -1,0 +1,6 @@
+{
+  "name": "Gesture Control",
+  "description": "Advanced on-device hand gesture control for Android actions, camera landmark tracking, and media/system automation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

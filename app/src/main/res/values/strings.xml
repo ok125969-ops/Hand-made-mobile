@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gesture Control</string>
+    <string name="accessibility_service_description">Enables Gesture Control to perform navigation actions (Back, Home, Recents, Scrolling) using hands-free camera gestures.</string>
+</resources>
